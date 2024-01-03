@@ -1,0 +1,7 @@
+pydantic
+fastapi
+typer
+uvicorn
+arxiv
+pyautogen==0.2.0
+autogenstudio==0.0.18a
