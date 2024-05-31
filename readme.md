@@ -15,7 +15,7 @@ docker build -t autogenstudio .
 To run the docker image, run the following command:
 
 ```bash
-docker run -it --rm -p 8081:8081 autogenstudio -e "OPENAI_API_KEY=your_openai_api_key"
+docker run -it --rm -p 8081:8081  -e "OPENAI_API_KEY=your_openai_api_key" autogenstudio
 ```
 
 The Autogen Studio will be available at http://localhost:8081.
