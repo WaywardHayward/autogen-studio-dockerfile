@@ -1,3 +1,6 @@
+
+A docker container for autogen-stuido is now available as standard, this repo is no longer required see [AutoGen samples](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio)
+
 # Autogen Studio Docker Image
 
 This repository contains a dockerfile which can be used to build a docker image for the Autogen Studio. The docker image can be used to run the Autogen Studio in a docker container.
